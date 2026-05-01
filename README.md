@@ -13,8 +13,8 @@
 - Delivered actionable data insights to the Sustainability Department to inform campus-wide strategic planning.
 
 **[Airline Delay Data Analysis](https://github.com/ranglall/AirlineDelay-DataAnalysis)**
-- Analyzed AASHE STARS sustainability using R and the ‘tidyverse’ library to benchmark university performance.
-- Delivered actionable data insights to the Sustainability Department to inform campus-wide strategic planning.
+- Identified latent patterns and predictive factors contributing to airline delays through large-scale data modeling.
+- Applied R, EFA, and SEM to conduct statistical analysis and feature engineering on a 1M+ record dataset.
 
 **[Modeling Athletics Recruitment Expenses](https://github.com/ranglall/AthleticRecruitmentExpenses-DataPrediction)**
 - Developed a multiple linear regression model to predict collegiate athletic recruitment spending, - Identified key financial drivers explaining 79.72% of data variability using R, Quarto, and log transformations.
